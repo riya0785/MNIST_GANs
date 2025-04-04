@@ -1,4 +1,4 @@
-# MNIST_GANs
+
 # GANs for Medical Image Generation
 
 ## Project Description
